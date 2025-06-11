@@ -1,0 +1,2 @@
+# Ignore OpenAI secrets
+.streamlit/secrets.toml
