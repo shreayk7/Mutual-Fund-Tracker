@@ -1,2 +1,8 @@
-# Ignore OpenAI secrets
-.streamlit/secrets.toml
+env/
+server.py
+server.log
+templates/CNAME
+.vercel
+
+*.backup
+*.pyc
